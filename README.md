@@ -1,2 +1,6 @@
-## This repo showcases various work product samples; it is a way to highlight my versatile skillset and dedication to producing pragmatic and quality solutions
-#### My work 
+## This repo showcases various work product samples; it is a way to highlight my versatile skillset and dedication to producing pragmatic and high-quality solutions
+#### To give some background/context, I received my Petroleum Engineering degree from UT - Austin, but my fascination for Business and strategy led me to take a Business Consultant job out of college. From there, I parlayed that experience into a District Management role for an Oil and Gas Wireline Service provider. While we were successful in growing the West Texas district (significant top and bottom-line expansion, improved safety and quality metrics), Odessa was not a place I wanted to call home. Hence, I decided to take some time off to snowboard and explore my other interests. Then, COVID hit...
+
+I enrolled in the Data Science program at Springboard. I immediately fell in love with the process of uncovering incredible insights from data. Data is like an abstract canvas; one where the artist attempts to accurately curate an inituitive story for their audience. I continue to develop my python, machine learning, statistics and analytical skills in my spare time.
+
+Currently, I'm working as a Data and Business Analyst for "The Fikes Companies" where my efforts are centralized around data sourcing, pipeline management, data analytics/visualization development and process improvement. I support three functional verticals while mentoring a part-time intern. 
