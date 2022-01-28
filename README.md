@@ -1,1 +1,2 @@
-# This repo is dedicated to the storage of various work product samples; it is a way to showcase my skills and versatility in the workplace. 
+# This repo showcases various work product samples; it is a way to highlight my versatile skillset and dedication to producing pragmatic and quality solutions
+## My work 
