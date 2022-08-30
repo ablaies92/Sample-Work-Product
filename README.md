@@ -4,4 +4,11 @@ To give some background/context, I received my Petroleum Engineering degree from
 
 I enrolled in the Data Science program at Springboard. I immediately fell in love with the process of uncovering incredible insights from data. Data is like an abstract canvas; one where the artist attempts to accurately curate an inituitive story for their audience. I continue to develop my python, machine learning, statistics and analytical skills in my spare time.
 
-Currently, I'm working as a Data and Business Analyst for "The Fikes Companies" where my efforts are centralized around data sourcing, pipeline management, data analytics/visualization development and process improvement. I support three functional verticals while mentoring a part-time intern. 
+Over the course of 2021 and 2022, I've worked for Reali (prop tech) and "The Fikes Companies". My work primarily entailed the following:
+  - data sourcing (ETL), pipeline generation (API) and management, data analytics/visualization development (SpotFire and Looker) and process improvement
+  - interfacing with stakeholders to identify and prioritize needs and their associated impact
+  - troubleshooting the development and production environments (GITHUB/DBT, Snowflake)
+  - data discovery and cleansing (e.g. leveraging Mixpanel and Segment data to develop customer attribution statistics)
+  - succinctly informing/transferring knowledge learned from the data (corner cases, caveats, holes, etc.)
+
+
